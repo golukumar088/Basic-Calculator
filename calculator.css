@@ -1,0 +1,43 @@
+* {
+    margin: 10px;
+    padding: 5px;
+}
+
+.calculator {
+    border: 1px solid rgb(187,183,183);
+    border-radius: 5px;
+    width: 300px;
+}
+
+#display {
+    margin: 10px;
+    width: 90%;
+    font-size: 25px;
+}
+
+.btn {
+    width: 70px;
+    height: 70px;
+    margin: 3px;
+    size: 20px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color:azure;
+}
+
+.btn:hover {
+    color: rgba(4, 205, 195, 0.918);
+}
+
+input {
+    border-radius: 8px;
+    border-color: rgb(175, 116, 38);
+}
+
+input:hover {
+    border-color: rgba(204, 246, 38, 0.755);
+}
