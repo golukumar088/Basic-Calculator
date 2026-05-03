@@ -17,6 +17,5 @@ This is a simple web-based calculator built using HTML, CSS, and JavaScript. It 
 - JavaScript (Functionality)
 
 
-## ▶️ How to Run
-1. Download or clone the repository:
-```bash
+## ▶️ 🚀 Live Demo
+👉 https://golukumar088.github.io/Basic-Calculator/
